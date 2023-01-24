@@ -1,0 +1,11 @@
+.container {
+    display:flex;
+    gap: 50px;
+   
+}
+
+.container-1 {
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
